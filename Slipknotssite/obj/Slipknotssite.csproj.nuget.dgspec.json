@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gitsami\\Slipknotssite\\Slipknotssite\\Slipknotssite.csproj": {}
+    "C:\\Users\\teachers\\Desktop\\Slipknotssite\\Slipknotssite\\Slipknotssite.csproj": {}
   },
   "projects": {
-    "D:\\gitsami\\Slipknotssite\\Slipknotssite\\Slipknotssite.csproj": {
+    "C:\\Users\\teachers\\Desktop\\Slipknotssite\\Slipknotssite\\Slipknotssite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitsami\\Slipknotssite\\Slipknotssite\\Slipknotssite.csproj",
+        "projectUniqueName": "C:\\Users\\teachers\\Desktop\\Slipknotssite\\Slipknotssite\\Slipknotssite.csproj",
         "projectName": "Slipknotssite",
-        "projectPath": "D:\\gitsami\\Slipknotssite\\Slipknotssite\\Slipknotssite.csproj",
+        "projectPath": "C:\\Users\\teachers\\Desktop\\Slipknotssite\\Slipknotssite\\Slipknotssite.csproj",
         "packagesPath": "C:\\Users\\teachers\\.nuget\\packages\\",
-        "outputPath": "D:\\gitsami\\Slipknotssite\\Slipknotssite\\obj\\",
+        "outputPath": "C:\\Users\\teachers\\Desktop\\Slipknotssite\\Slipknotssite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\teachers\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,23 +42,29 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.12, )"
+              "version": "[5.0.14, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.12, )"
+              "version": "[5.0.14, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[5.0.12, )"
+              "version": "[5.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.12, )"
+              "version": "[5.0.15, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.12, )"
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
