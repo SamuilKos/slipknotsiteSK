@@ -167,3 +167,8 @@ C:\Users\teachers\Desktop\Slipknotssite\Slipknotssite\obj\Debug\net5.0\Razor\Vie
 C:\Users\teachers\Desktop\Slipknotssite\Slipknotssite\obj\Debug\net5.0\Razor\Views\News\Details.cshtml.g.cs
 C:\Users\teachers\Desktop\Slipknotssite\Slipknotssite\obj\Debug\net5.0\Razor\Views\News\Edit.cshtml.g.cs
 C:\Users\teachers\Desktop\Slipknotssite\Slipknotssite\obj\Debug\net5.0\Razor\Views\News\Index.cshtml.g.cs
+C:\Users\teachers\Desktop\Slipknotssite\Slipknotssite\obj\Debug\net5.0\Razor\Views\Concerts\Create.cshtml.g.cs
+C:\Users\teachers\Desktop\Slipknotssite\Slipknotssite\obj\Debug\net5.0\Razor\Views\Concerts\Delete.cshtml.g.cs
+C:\Users\teachers\Desktop\Slipknotssite\Slipknotssite\obj\Debug\net5.0\Razor\Views\Concerts\Details.cshtml.g.cs
+C:\Users\teachers\Desktop\Slipknotssite\Slipknotssite\obj\Debug\net5.0\Razor\Views\Concerts\Edit.cshtml.g.cs
+C:\Users\teachers\Desktop\Slipknotssite\Slipknotssite\obj\Debug\net5.0\Razor\Views\Concerts\Index.cshtml.g.cs
